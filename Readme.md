@@ -1,7 +1,7 @@
 # Dog game
 
 ## Introduction
-A scroller game.
+A side scroller game.
 
 ## Game rules
 Keep your dog safe by dodging enemies as much time as you can. Each passed enemy increases your score. The game continues until you encounter an enemy.
